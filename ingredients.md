@@ -1,4 +1,4 @@
-//Ingredients
+Ingredients
 4 ½ cups all-purpose flour
 3 cups sugar
 1 cup cocoa powder
